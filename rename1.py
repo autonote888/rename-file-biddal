@@ -41,7 +41,7 @@ def generate_new_base_name(base_name_input):
 def main():
     st.set_page_config(page_title="File Renamer Otomatis", layout="centered")
     
-    st.title("GENERATE NAMA FILE OTOMATIS")
+    st.title("GENERATE NAMA FILE BIDDAL")
     st.markdown("---")
 
     # 1. Input Nama Dasar
@@ -74,3 +74,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
